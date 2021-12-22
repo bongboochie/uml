@@ -1,0 +1,36 @@
+-k?ch b?n dang nh?p()
+
+-k?ch b?n qu?n lý thông tin
+                 (-k?ch b?n s?a thông tin cá nhân
+                  - k?ch b?n c?p nh?t ?nh d?i di?n
+                  - k?ch b?n d?i m?t kh?u)
+-k?ch b?n xem thông tin cá nhân c?a ngu?i dùng khác(
+                                 K?ch b?n tìm ki?m ngu?i dùng)
+-k?ch b?n qu?n lý di?m(giáo viên)
+-k?ch b?n k?ch b?n g?i tin nh?n
+
+-k?ch b?n qu?n lý ngu?i dùng
+	+ tìm ki?m ngu?i dùng
+	+ thêm ngu?i dùng
+	+ s?a thông tin ngu?i dùng
+	+ xóa ngu?i dùng
+	+ xem chi ti?t thông tin ngu?i dùng
+-k?ch b?n qu?n lý l?p
+	+ thêm môn h?c
+	+ thêm l?p h?c
+	+ s?a thông tin môn h?c
+	+ xóa thông tin môn h?c
+	+ tìm ki?m theo l?p và môn h?c
+-k?ch b?n qu?n lý thông tin cá nhân
+	+ s?a thông tin cá nhân
+	+ c?p nh?t ?nh d?i di?n
+	+ thay d?i m?t kh?u
+- k?ch b?n qu?n lý qu?n tr? viên
+	+ thêm qu?n tr? viên
+	+ s?a thông tin qu?n tr? viên
+	+ xóa qu?n tr? viên
+	+ d?t l?i m?t kh?u cho qu?n tr? viên
+	+ xu?t danh sách qu?n tr? viên ra t?p d? li?u
+
+
+- k?ch b?n xem di?m (ph? huynh)
